@@ -1,0 +1,3 @@
+_type: "prompt"
+input_variables: ["context", "question"]
+template: "请依据上下文回答问题{context}，问题：{question}"

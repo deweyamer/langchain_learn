@@ -1,0 +1,3 @@
+_type: "prompt"
+input_variables: ["question"]
+template: "判断问题是中文问题还是英文问题，中文问题输出0，英文问题输出0。问题：{question}"
